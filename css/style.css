@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&family=Open+Sans:wght@700&display=swap');
+
+body {
+	background-color: #19191b;
+	color: var(--main-color);
+	font-family: var(--main-family);
+}
