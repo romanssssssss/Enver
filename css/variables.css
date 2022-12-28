@@ -16,3 +16,12 @@
 
 	--container-width: 1200px;
 }
+
+@media all and (max-width: 500px){
+	:root{
+		--main-size: 16px;
+	--section-title-size: 60px;
+	--service-title-size: 24px;
+
+	}
+}
